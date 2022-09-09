@@ -12,7 +12,5 @@ int main()
     if (sex == 'm')
     printf("The driver should be insured");
   }
-  
-  
-  
+  return 0;
 }
